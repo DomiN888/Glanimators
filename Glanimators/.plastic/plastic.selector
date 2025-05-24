@@ -1,0 +1,4 @@
+repository "Glanimators/Glanimators@3573545042590@cloud"
+  path "/"
+    br "/main"
+    co "/main"
